@@ -25,6 +25,7 @@ The repository is organized into different folders, each focusing on a specific 
 - **Regression Models:** Notebooks related to regression algorithms, such as linear regression, polynomial regression, and ridge regression.
 - **Support Vector Machines (SVM):** Notebooks covering SVM, a powerful algorithm for classification and regression tasks.
 - **Decision Trees:** Explore decision tree algorithms and their applications for both classification and regression.
+- **Naive Bayes** classifiers are a family of linear "probabilistic classifiers" with strong independence assumptions between the features. 
 - **Random Forest:** Learn about ensemble learning and random forest algorithms.
 - **XGBoost:** Dive into the popular gradient boosting algorithm, XGBoost, for improved model performance.
 - **Many More:** Additional folders containing notebooks for various other machine learning algorithms.
@@ -35,8 +36,11 @@ The repository covers a wide range of machine learning algorithms, including but
 
 - Linear Regression
 - Polynomial Regression
+- Logistic Regression
 - Support Vector Machines (SVM)
+- K-nearest neighbours
 - Decision Trees
+- Naive Bayes
 - Random Forest
 - XGBoost
 - ...and many more!
