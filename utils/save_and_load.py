@@ -12,6 +12,7 @@ except FileExistsError:
 else:
     print(f"The directory '{dir_name}' was successfully created.")
 
+# to create and write a dataset
 def download_file(url, save_path):
     response = requests.get(url)
     if response.status_code == 200:
