@@ -25,7 +25,7 @@ def download_file(url, save_path):
 # url = "https://drive.google.com/uc?export=download&id=1E0r5bjf6MRQT07K5An0jphmRAFU82DEf"
 # save_path = Path("../Datasets/car_info_by_car_dekha.csv.csv")
         
-url = ""
-save_path = Path("")        
+# url = ""
+# save_path = Path("")        
 
-download_file(url, save_path)
+# download_file(url, save_path)
